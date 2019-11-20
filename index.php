@@ -9,6 +9,7 @@
 	<script src="script.js"></script>
 </head>
 	<body>
+		<!--In this case we're leaving action blank so it loads to the address in the current page, we only in one page so that's good.-->
 		<form action="" method="get">
 			<input type="text" name="location"/>
 			<button type="submit">Please?</button>

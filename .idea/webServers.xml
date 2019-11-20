@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8ec8e66-754d-4edd-9321-92c2ce3f6432" name="exampleDataDownloader" url="http://bootcamp-coders.cnm.edu/~cedmo/exampleDataDownloader/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/cedmo/public_html/exampleDataDownloader" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
